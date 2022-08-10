@@ -1,6 +1,9 @@
 # Currency rates viewer
 
-This viewer shows currency rates which were exctracted from a Bank site
-by [Web grabber](https://github.com/taras-z/web-grabber).
+This viewer shows currency rates which were extracted from a Bank site
+by [Web grabber](https://github.com/taras-z/web-grabber) like that:
 
-The viewer is based on [Flask](https://flask.palletsprojects.com/).
+ 
+![Sample view](./docs/charts.png)
+
+NB. The viewer is based on [Flask](https://flask.palletsprojects.com/).
